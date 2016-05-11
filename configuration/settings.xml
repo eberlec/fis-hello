@@ -26,6 +26,7 @@
       <repositories>
         
 <repository>
+     <!--
           <id>openshift.local</id>
           <name>OpenShift Local</name>
           <url>http://192.168.0.102:8081/nexus/content/repositories/openshift-local</url>
@@ -37,6 +38,7 @@
             <updatePolicy>never</updatePolicy>
           </releases>
         </repository>
+     -->
         <repository>
           <id>fusesource.m2</id>
           <name>FuseSource Community Release Repository</name>
@@ -76,6 +78,7 @@
 
       </repositories>
       <pluginRepositories>
+     <!--
         <pluginRepository>
           <id>openshift.local</id>
           <name>OpenShift Local</name>
@@ -88,6 +91,7 @@
             <updatePolicy>never</updatePolicy>
           </releases>
         </pluginRepository>
+     -->
         <pluginRepository>
           <id>fusesource.m2</id>
           <name>FuseSource Community Release Repository</name>
