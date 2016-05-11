@@ -25,8 +25,8 @@
       <id>fusesource.repo</id>
       <repositories>
         
-<repository>
      <!--
+       <repository>
           <id>openshift.local</id>
           <name>OpenShift Local</name>
           <url>http://192.168.0.102:8081/nexus/content/repositories/openshift-local</url>
